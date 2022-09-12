@@ -31,3 +31,16 @@ function multiply(a, b){
   return a * b
 }
 ***
+* #### Education
+  * 2000-2009 Secondary Russian school №4 Armenia, Abovyan, Kotayq.
+  * 2009-2010 Artilery Engineering Military Academy (Tula, Russian Federation).
+  * 2010-2014 Military Academy of Material and Technical Support(Penza, Russian Federation).
+  * 2010-2014 Military interpreter in the field of specialization(Penza, Russian Federation).
+***
+  * #### Languages
+    * Armenian 
+      * Native
+    * Russian 
+      * Native
+    * English 
+      * B1 (Intermediate)
