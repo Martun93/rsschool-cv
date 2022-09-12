@@ -13,3 +13,21 @@
 ***
 ## About me
 My name is Martun, surname Balyan. I'm 29 years old.  Married and I have a beautiful daughter. Worked in different directions but I realized that programming is the work of the future and does not apply in any way to dying specialties. In the field of programming I take my first steps.  Although I am at the beginning of my career, I will strive to become one of the best workers in this field. I always ready to learn.
+* #### My strengths skills
+  * Hardworking
+  * Critical thinker
+  * Leadership
+  * Attentive listening and effective oral communication.
+***
+* #### Programming languages
+  * C++ introduction in ACA
+  * First online course  on [Udemi](https://www.udemy.com/course/javascript-zero-to-junior-developer/)
+  * Second online course on [Udemi](https://www.udemy.com/course/the-complete-javascript-course/)
+  * [RSSchool JavaScript/Front-end 2022Q3](https://app.rs.school/)
+***
+* #### Code example
+This code does not execute properly. Try to figure out why.
+function multiply(a, b){
+  return a * b
+}
+***
